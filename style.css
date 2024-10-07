@@ -1,0 +1,47 @@
+body{
+    background-image: linear-gradient(to bottom right,rgb(250, 82, 82), rgb(114, 230, 238));
+    background-repeat: no-repeat;
+    height: 900px;    
+}
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    color: lightblue;
+}
+.nav{
+    background-color: unset;
+    height: 50px;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-left: 1500px;
+    /* border: 1px solid gainsboro ; */
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px 0px rgb(191, 245, 240);
+}
+.nav a{
+    text-decoration: none;
+    color: rgb(126, 236, 222) !important;
+    padding-inline: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav a:hover{
+    color: rgb(250, 82, 82);
+}
+.body pre p{
+    font-size: 20px;
+    color:  rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 40px;
+}
+.body pre{
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+    margin-top: -20px;
+}
+.body img{
+    margin-top: -900px;
+    margin-left: 1400px;
+}
